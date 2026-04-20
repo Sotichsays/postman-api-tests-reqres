@@ -35,7 +35,7 @@
 
 Все тесты проходят успешно:
 
-![Test Results](screenshots/test-results.png)
+![Результаты тестов в Postman](screenshots/)
 
 ## 👤 Автор
 
