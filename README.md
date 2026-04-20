@@ -35,6 +35,9 @@
 
 Все тесты проходят успешно:
 
+![Пример результата одного из запросов (создать пользователя) в Postman](Screenshots/Create new user.png)
+
+
 ![Результаты тестов в Postman](Screenshots/)
 
 ![Логи в консоли Postman](screenshots/postman-console.png)
